@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-Wall -g
+CFLAGS=-Wall -g -m32
 PROGRAM_NAME=main
 SRC_FILES=$(PROGRAM_NAME).c
 
